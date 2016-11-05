@@ -1,1 +1,2 @@
 # structure
+![Structure](structure.jpg)
